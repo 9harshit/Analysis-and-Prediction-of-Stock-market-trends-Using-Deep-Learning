@@ -22,6 +22,8 @@ Use Risk Analysis System to find out to which cluster your stock belongs to and 
 Kmeans clustering is used to create this module. 
 Data is 10 year historic data for (Open price - Close price) for a particular day.
 
-Research paper based on the project to be published soon.
+Research paper published based on this project:
+
+https://www.researchgate.net/publication/340961339_Analysis_and_Prediction_of_Stock_Market_Trends_Using_Deep_Learning
 
 Thanks
