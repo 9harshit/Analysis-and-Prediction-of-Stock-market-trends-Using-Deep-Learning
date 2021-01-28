@@ -50,6 +50,8 @@ I made three different models for each step of this application:
 
 **Springer Publication:** https://www.researchgate.net/publication/340961339_Analysis_and_Prediction_of_Stock_Market_Trends_Using_Deep_Learning
 
+**IEEE Publication:** https://ieeexplore.ieee.org/abstract/document/9298333
+
 ## Productionization 
 
 ![alt text](https://github.com/gjariwala9/Analysis-and-Prediction-of-Stock-market-trends-Using-Deep-Learning/blob/master/README_IMG/index.png "Home Page")
